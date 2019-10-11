@@ -1,12 +1,11 @@
 {
-  "name": "z-score calculator (norway)",
-  "short_name": "zscore (BGS)",
-  "description": "calculate z-scores for height, weight, bmi using the Norwegian (BGS) growth reference chart",
+  "name": "z-score calculator (norway, BGS)",
+  "short_name": "zscore (bgs)",
+  "description": "calculate z-scores for height, weight, bmi using the Norwegian BGS growth reference chart",
   "theme_color": "#004d99",
   "background_color": "#ffffff",
   "display": "standalone",
-  "Scope": "https://mngsbe.github.io/",
-  "start_url": "/zscore.no/index.html",
+  "start_url": "/zscore.no/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
